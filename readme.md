@@ -1,3 +1,3 @@
-# Abiti
+# SQL Practices
 
-## Test
+## Basic SQL cheat sheets
